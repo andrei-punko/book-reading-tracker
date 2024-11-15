@@ -1,7 +1,7 @@
 
 # List of books, grouped by years of reading
 
-- [Backlog](reading-backlog.md)
+- [Backlog](backlog.md)
 - [2024](done-2024.md)
 - [2023](done-2023.md)
 - [2022](done-2022.md)
