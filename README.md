@@ -1,4 +1,3 @@
-
 # List of books, grouped by years of reading
 
 - [Backlog](backlog.md)
