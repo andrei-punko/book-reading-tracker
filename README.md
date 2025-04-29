@@ -1,6 +1,6 @@
-# Список прочитанных книг
+# List of books read and planned to be read
 
-Группировка по годам прочтения (от поздних к ранним)
+Grouped by year of reading (from late to early)
 
 - [Backlog](backlog.md)
 - [2025](done-2025.md)
