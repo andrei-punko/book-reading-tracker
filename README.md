@@ -1,6 +1,8 @@
 # List of books read and planned to be read
 
-Grouped by year of reading (from late to early)
+Grouped by year of reading, inverse order
+
+[My recommendations](I-recommend.md)
 
 - [Backlog](backlog.md)
 - [2025](done-2025.md)
