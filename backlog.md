@@ -4,7 +4,6 @@
 
 ## Техническое
 
-- !(D) Алекс Сюй - System Design. Подготовка к сложному интервью
 - !(P) Крис Ричардсон - Микросервисы. Паттерны разработки и рефакторинга
 - (P) Стив Макконнелл - Совершенный код
 - (P) Олег Докука, Игорь Лозинский - Практика реактивного программирования в Spring 5
@@ -19,6 +18,8 @@
 - Gamma et al. - Design Patterns: Elements of Reusable Object Oriented Software, 1996
 - Kent Beck - Smalltalk Best Practice Patterns, 1997
 - Robert Simmons - Hardcore Java, 2004
+- (D) Goetz - Java concurrency in practice
+- (D) Doug Lea - Concurrent programming in Java, 1999
 
 ## Эффективность
 
